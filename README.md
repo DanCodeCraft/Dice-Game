@@ -10,7 +10,7 @@
 - Quick and simple dice game made with Vanilla JavaScript.
 
 ### Link
-- Live Link: [Live Link](https://dancodecraft-dice-game.vercel.app/)
+- [Live Link](https://dancodecraft-dice-game.vercel.app/)
 
 ### Rules
 - Roll the dice to score points
