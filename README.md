@@ -1,13 +1,18 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [Link](#links)
   - [Rules](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [Let's talk](#author)
 
-### Rules
+### Overview
+- Quick and simple dice game made with Vanilla JavaScript.
 
+### Link
+- Live Link: [Live Link](https://dancodecraft-dice-game.vercel.app/)
+
+### Rules
 - Roll the dice to score points
 - Hold your points to pass your turn.
 - The first player who scores 100 points wins the game.
@@ -17,22 +22,13 @@
 Good luck! 😊
 
 ### Screenshot
-
 ![](./diceGame.png)
 
-### Links
-
-- Solution URL: [Live Link](https://dancodecraft-dice-game.vercel.app/)
-
-## My process
-
 ### Built with
-
 - HTML
 - CSS
 - Vanilla JavaScript
 
 ## Let's talk
-
 - Website - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
 - Twitter - [@yourusername](https://www.twitter.com/DanCodeCraft)
